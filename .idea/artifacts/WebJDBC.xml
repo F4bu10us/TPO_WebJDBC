@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebJDBC">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebJDBC</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TPO_WebJDBC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TPO_WebJDBC" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
